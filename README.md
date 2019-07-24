@@ -15,11 +15,12 @@ This app contains one user type- a corporate event planner.
 
 Stretch Goal: Invite other co-workers by e-mail to join the project, with ability to edit it as well. On the single event page, add ability to add comments to each vendor on the list to track conversations and notes.
 
-#### Design Links / Data Sets
+### Design Links / Data Sets
 TL - Backend Steward
 API - Documentation Links
 https://github.com/corporate-event-planner/DevelopmentBE
-Person to Contact
+
+####  Person to Contact
 Jon Palacio
 API URL
 https://corporate-event-planner.herokuapp.com/swagger-ui.html#/user-controller
